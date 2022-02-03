@@ -1,0 +1,9 @@
+@tailwind base;
+.app-container {
+    @apply px-4 md:px-6 md:max-w-5xl md:mx-auto;
+}
+
+@tailwind components;
+@tailwind utilities;
+
+
